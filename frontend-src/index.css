@@ -1,0 +1,45 @@
+.page-container {
+  max-width: 700px;
+  margin: 50px auto;
+  padding: 30px;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.page-container h2 {
+  margin-bottom: 20px;
+}
+
+.page-container input,
+.page-container textarea {
+  width: 90%;
+  margin-bottom: 15px;
+}
+
+.page-container button {
+  padding: 12px 25px;
+  background: #007bff;
+  color: white;
+  border: none;
+  border-radius: 12px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.page-container button:hover {
+  background: #0056b3;
+}
+
+.mindmap-img {
+  width: 100%;
+  max-width: 600px;
+  margin-top: 20px;
+  border-radius: 15px;
+}
+
+.error {
+  color: red;
+  font-weight: bold;
+}
